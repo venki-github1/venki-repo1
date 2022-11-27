@@ -113,8 +113,17 @@ WHAT DOES YOUR FATHER DO..?
    
 
 WHAT ARE YOUR JOB RESPONSIBILITIES..?
--->
-
+--> 1)As part of my work I worked as a git administrator, that is maintaining the source code in the github, creating the repositoty, creating the team,
+    adding the members to the team, providing the repository access to the team members.
+    2)Generating the war files from the source code using code build tool Maven, storing the artifacts in the nexus repository.
+    3)Creating the docker image using docker file, It's a package which contains everything(Softwares+ENV+Application Code) to run your application.
+    4)Creating the container out of docker images
+    5)deploying the container in the kubernetes cluster
+-->On the cloud side involved in the creation of virtual machines using EC2 service, Deploying those Virtual machines in the dedicated network, which is
+   created using AWS VPC service in the cloud, deployed the cloud watch service to monitor the storage and cpu performance of the VMs,setting
+   up the threshold value for automatic deployment of servers using AWS autoscaling and Load Balancing.
+  
+  
 WHO IS YOUR CLIENT..?
 -->Cummins Inc. is an American multinational corporation that designs, manufactures, and distributes engines, filtration, and power generation products.
    
